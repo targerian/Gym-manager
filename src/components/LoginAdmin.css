@@ -1,0 +1,7 @@
+.login-admin {
+  width: 600px;
+  margin: 50px auto;
+}
+body {
+  background-color: var(--primary-color) !important;
+}

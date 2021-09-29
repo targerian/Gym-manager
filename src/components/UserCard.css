@@ -1,0 +1,22 @@
+.card-container {
+  background-color: white;
+  width: 80%;
+  border-radius: 5px;
+  margin: 10px auto;
+  height: 35px;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+  align-items: centerx;
+}
+.card-container > span {
+  font-weight: bolder;
+}
+.delete {
+  color: red;
+  font-size: 20px;
+}
+.edit {
+  color: var(--bs-success);
+  font-size: 20px;
+}
